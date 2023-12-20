@@ -1,5 +1,5 @@
 /*
-Pattern 1:-Reverse_Right_Angle_Triangle_with_Dots.
+Pattern 1:-Reverse_Left_Right_Angle_Triangle_with_Dots.
 * * * * *
 * * * *
 * * *
