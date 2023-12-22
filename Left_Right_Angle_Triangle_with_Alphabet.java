@@ -1,16 +1,15 @@
 /*
-Pattern 1:-Left_Right_Angle_Triangle_with_Number.
-1
-2 1
-3 2 1
-4 3 2 1
-5 4 3 2 1
+Pattern 1:-Left_Right_Angle_Triangle_with_Alphabet.
+A
+B C
+D E F
+H I J K
 
 */
 
 import java.util.Scanner;
 
-class Left_Right_Angle_Triangle_with_Number_2
+class Left_Right_Angle_Triangle_with_Alphabet
 {
     public static void main (String[] args)
     {
@@ -18,10 +17,11 @@ class Left_Right_Angle_Triangle_with_Number_2
         System.out.println("Enter the size:- ");
         int T = sc.nextInt();
         System.out.println("Output is:- ");
-        
-        for(int i=1; i<=T; i++){
-            for(int j=i; j>=1; j--){
-                System.out.print(j+" " );
+        char c='A';
+        for(int i=0; i<T; i++){
+            for(int j=0; j<=i; j++){
+                System.out.print(c+" ");
+                c++;
                 }
                 System.out.println();
             }        
