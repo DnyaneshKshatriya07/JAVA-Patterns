@@ -1,5 +1,5 @@
 /*
-Pattern 1:-Left_Right_Angle_Triangle_with_Dots.
+Pattern 1:-Solid_Rectangle.
 *****
 *****
 *****
