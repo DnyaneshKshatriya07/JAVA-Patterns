@@ -1,5 +1,5 @@
 /*
-Pattern 1:-Left_Right_Angle_Triangle_with_Number.
+Pattern 1:-Floyd's Triangle.
 1
 2 3
 4 5 6
@@ -10,7 +10,7 @@ Pattern 1:-Left_Right_Angle_Triangle_with_Number.
 
 import java.util.Scanner;
 
-class Left_Right_Angle_Triangle_with_Number_3
+class Floyd_Triangle
 {
     public static void main (String[] args)
     {
