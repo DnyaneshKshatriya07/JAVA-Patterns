@@ -1,3 +1,16 @@
+/*
+Pattern 1:-Diamond_Pattern.
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+ * * * *
+  * * *
+   * *
+    *
+*/
+
 import java.util.Scanner;
 
 public class Diamond_Pattern {
