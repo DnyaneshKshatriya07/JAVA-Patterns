@@ -1,3 +1,16 @@
+/*
+Pattern :-Hollow_Diamond.
+    *
+   * *
+  *   *
+ *     *
+*       *
+ *     *
+  *   *
+   * *
+    *
+*/
+
 import java.util.Scanner;
 
 public class Hollow_Diamond {
