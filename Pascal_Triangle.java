@@ -1,5 +1,5 @@
 /*
-Pattern 1:- Pascal Triangle.
+Pattern:- Pascal Triangle.
      1 
     1 1
    1 2 1
